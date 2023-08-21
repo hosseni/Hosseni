@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elhossenenour" target="blank"><img src="https://img.shields.io/twitter/follow/elhossenenour?logo=twitter&style=for-the-badge" alt="elhossenenour" /></a> </p>
 
-<img align="right" alt="Codeing" width="400" src="https://www.google.com/search?q=embedded+logo&tbm=isch&ved=2ahUKEwi4vY3v4-2AAxVAnycCHcZTCkYQ2-cCegQIABAA&oq=embedded+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB46BAgjECdQmwNYiRFgihNoAHAAeACAAfkBiAHVC5IBBTAuMS42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=N1zjZPjFNMC-nsEPxqepsAQ&bih=778&biw=1536#imgrc=iVL8X475d6eNUM
-">
+<img align="right" alt="Codeing" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcircuit-board-logo%2F2&psig=AOvVaw3pFXxt3hVqwyi7XrRbUTRx&ust=1692709071772000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDgp-rm7YADFQAAAAAdAAAAABAE">
 - 🔭 I’m currently working as **Embedded Software trainee**
 
 <h3 align="left">Connect with me:</h3>
