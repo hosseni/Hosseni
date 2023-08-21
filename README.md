@@ -1,4 +1,4 @@
-[![MasterHead](https://externlabs.com/blogs/wp-content/uploads/2021/10/iot-embedded-system-prev.webp)
+![MasterHead](https://externlabs.com/blogs/wp-content/uploads/2021/10/iot-embedded-system-prev.webp)
 
 <h1 align="center">Hi 👋, I'm Elhosseni Gamal</h1>
 <h3 align="center">Embedded Software Engineer</h3>
