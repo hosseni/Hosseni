@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseni&label=Profile%20views&color=0e75b6&style=flat" alt="hosseni" /> </p>
 
 <p align="left"> <a href="https://twitter.com/elhossenenour" target="blank"><img src="https://img.shields.io/twitter/follow/elhossenenour?logo=twitter&style=for-the-badge" alt="elhossenenour" /></a> </p>
-
-<img align="right" alt="Codeing" width="400" src="https://www.nicepng.com/png/detail/319-3193035_technology-clipart-software-engineer-.png">
 - 🔭 I’m currently working as **Embedded Software trainee**
 
 <h3 align="left">Connect with me:</h3>
