@@ -1,6 +1,6 @@
 ![MasterHead](https://externlabs.com/blogs/wp-content/uploads/2021/10/iot-embedded-system-prev.webp)
 
-<h1 align="center">Hi 👋, I'm Elhosseni Gamal</h1>
+<h1 align="center">Hi 👋, I'm Elhusseini Gamal</h1>
 <h3 align="center">Embedded Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseni&label=Profile%20views&color=0e75b6&style=flat" alt="hosseni" /> </p>
